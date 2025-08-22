@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.inner-image-zoom__zoomed-image {
+  display: none !important;
+}
